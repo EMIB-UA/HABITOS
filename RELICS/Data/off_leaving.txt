@@ -1,0 +1,16 @@
+# Intervals for the switch-off probability functions when leaving in function of the time to the next 
+# rows: different room types 
+# (1) Bathroom, (2) Bedroom, (3) Hallway, (4) Kitchen, (5) Living, (6) Office, (7) Toilet, Storage and (8) LivingKitchen
+# columns: interval in which the switch-off probability function by leaving should be located. 
+# (1) lower function and (2) upper function
+
+1.502911 * log(0.098424 * x + 7.159604) -3.079601	0.037532 * log(3.618506 * x -8.165326) + 0.773583
+0.4548554140267554*log(0.6637831021223717*x+5.300369464623823)-0.8276184508423268	1
+0	0.054*log(9.896*x-19.793) + 0.774
+0	2012.524161 * log(0.000023 * x + 1.033665) -66.613846
+0	0.242464 * log(0.380993 * x + 0.083866) -0.001270
+0.000651 * log(1.395809 * x -4.664591) + 0.004638	0.131561 * log(0.635296 * x -1.249144) + 0.684476
+0.026*log(1.346*x-10.769)+0.887	1
+0	2012.524161 * log(0.000023 * x + 1.033665) -66.613846
+
+

@@ -1,0 +1,3 @@
+# Variation associated to the correction factor k
+
+0.11546806726975452

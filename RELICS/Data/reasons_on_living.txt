@@ -1,0 +1,9 @@
+# Reasons to switch the lighting on in the living room/kitchen/office.
+# (1) Insufficient daylight, (2) closing solar shading, (3) entering room, (4) insufficient daylight and closing solar shading, (5) insufficient daylight and entering room, (6) closing solar shading and entering room and (7) insufficient daylight, closing solar shading and entering room. 
+0.6118
+0.7176
+0.7412
+0.9412
+0.9529
+0.9765
+1.0000

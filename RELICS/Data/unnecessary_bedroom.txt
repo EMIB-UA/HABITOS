@@ -1,0 +1,7 @@
+#Family forgets to switch off the lighting in the bedroom
+#rows and columns: (1) Never, (2) several times per month, (3) several times per week, (4) multiple times per week, (5) daily
+0.7857	0.4643	0.4286	0.0000	0.5000
+0.9762	0.8929	0.8571	0.0000	1.0000
+1.0000	1.0000	1.0000	0.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000

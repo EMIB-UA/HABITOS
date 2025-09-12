@@ -1,0 +1,9 @@
+# Reasons to switch the lighting on in the bathroom.
+# rows and columns: (1) Sufficient daylight, (2) opening solar shading, (3) leaving room, (4) sufficient daylight and opening solar shading, (5) sufficient daylight and leaving room, (6) opening solar shading and leaving room and (7) sufficient daylight, opening solar shading and leaving room. 
+0.5500	0.0000	0.0000	0.0000	0.0000	0.0000	0.0000
+0.5500	0.3333	0.0000	0.0000	0.0000	0.0000	0.0000
+0.9500	1.0000	1.0000	0.4000	0.4400	1.0000	0.2667
+0.9500	1.0000	1.0000	0.8000	0.4400	1.0000	0.2667
+1.0000	1.0000	1.0000	0.8000	0.9600	1.0000	0.5333
+1.0000	1.0000	1.0000	1.0000	1.0000	1.0000	0.6000
+1.0000	1.0000	1.0000	1.0000	1.0000	1.0000	1.0000

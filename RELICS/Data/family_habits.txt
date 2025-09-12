@@ -1,0 +1,7 @@
+#Characterising family habits
+#1 to 5, with 5 being the most effective
+0.0240
+0.0479
+0.1437
+0.5150
+1.0000

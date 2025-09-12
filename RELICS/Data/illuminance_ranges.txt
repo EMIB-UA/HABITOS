@@ -1,0 +1,7 @@
+# Illuminance ranges for the different activities
+# columns: (1) lower and (2) upper value
+# rows: (1) Cooking, dishes, computer and office work, (2) Cleaning and ironing, (3) Personal hygiene and laundry and (4) Entertainment and passageways
+538	1076
+215	538
+108	215
+54	108

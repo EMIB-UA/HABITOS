@@ -1,0 +1,11 @@
+# Reasons to switch the lighting on in the toilet
+# rows and columns: (1) Insufficient daylight, (2) closing solar shading, (3) entering room, (4) insufficient daylight and closing solar shading, (5) insufficient daylight and entering room, (6) closing solar shading and entering room and (7) insufficient daylight, closing solar shading and entering room. 
+0.1600	0.2857	0.0000	0.1176	0.0000	0.0000	0.0000
+0.1800	0.2857	0.0000	0.1176	0.0000	0.0000	0.0000
+0.9600	1.0000	1.0000	0.8824	1.0000	0.0000	1.0000
+0.9600	1.0000	1.0000	0.9412	1.0000	0.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000	0.5000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000	0.5000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000	1.0000	1.0000
+
+

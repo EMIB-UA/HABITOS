@@ -1,0 +1,11 @@
+# Reasons to switch the lighting on in the bedroom
+# rows and columns: (1) Insufficient daylight, (2) closing solar shading, (3) entering room, (4) insufficient daylight and closing solar shading, (5) insufficient daylight and entering room, (6) closing solar shading and entering room and (7) insufficient daylight, closing solar shading and entering room. 
+0.6400	0.1250	0.0000	0.1176	1.0000	0.0000	0.5000
+0.7800	0.7500	0.0000	0.1176	1.0000	0.5000	0.5000
+0.9000	1.0000	1.0000	0.3529	1.0000	0.5000	1.0000
+0.9400	1.0000	1.0000	0.9412	1.0000	0.5000	1.0000
+0.9800	1.0000	1.0000	1.0000	1.0000	0.5000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000	1.0000	1.0000
+
+

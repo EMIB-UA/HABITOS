@@ -1,0 +1,43 @@
+#Reasons why families do not switch their lighting off. 
+#columns: 1 to 5, with 5 being the most effective
+#rows: (1) consistent switching off, (2) forgetting, (3) laziness, (4) returning, (5) security, (6) consistent switching off, forgetting,
+#(7) consistent switching off, laziness, (8) consistent switching off, returning, (9) consistent switching off, security,(10) consistent switching off, forgetting, laziness, 
+#(11) consistent switching off, forgetting, returning, (12) consistent switching off, forgetting, security, (13) consistent switching off, laziness, returning,
+#(14) consistent switching off, laziness, security, (15) consistent switching off, returning, security, (16) consistent switching off, forgetting, laziness, returning,
+#(17) consistent switching off, forgetting, laziness, security, (18) consistent switching off, laziness, returning, security, (19) consistent switching off, forgetting, laziness, returning, security,
+#(20) forgetting, laziness, (21) forgetting, returning, (22) forgetting, security, (23) forgetting, laziness, returning, (24) forgetting, laziness, security, 
+#(25) forgetting, returning, security, (26) forgetting, laziness, returning, security, (27) laziness, returning, (28) laziness, security, 
+#(29) laziness, returning, security, (30) returning, security
+0.2439	0.0000	0.0000	0.0000	0.0000
+0.4878	0.1724	0.2500	0.0000	0.0000
+0.4878	0.1724	0.3750	0.0000	0.0000
+0.7317	0.3103	0.3750	0.0000	0.0000
+0.7805	0.3448	0.3750	0.0000	0.0000
+0.7805	0.3793	0.3750	0.0000	0.0000
+0.7805	0.3793	0.3750	0.0000	0.0000
+0.8049	0.3793	0.3750	0.0000	0.0000
+0.8049	0.3793	0.3750	0.0000	0.0000
+0.8049	0.3793	0.3750	0.0000	0.0000
+0.8049	0.3793	0.3750	0.0000	0.0000
+0.8049	0.3793	0.3750	0.0000	0.0000
+0.8049	0.3793	0.3750	0.0000	0.0000
+0.8049	0.3793	0.3750	0.0000	0.0000
+0.8049	0.3793	0.3750	0.0000	0.0000
+0.8049	0.3793	0.3750	0.0000	0.0000
+0.8049	0.3793	0.3750	0.0000	0.0000
+0.8049	0.3793	0.3750	0.0000	0.0000
+0.8049	0.3793	0.3750	0.0000	0.0000
+0.8049	0.4483	0.5000	0.0000	0.5000
+1.0000	0.9655	0.8750	0.0000	0.5000
+1.0000	0.9655	0.8750	0.0000	0.5000
+1.0000	0.9655	1.0000	1.0000	1.0000
+1.0000	0.9655	1.0000	1.0000	1.0000
+1.0000	0.9655	1.0000	1.0000	1.0000
+1.0000	0.9655	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000
+
+
+

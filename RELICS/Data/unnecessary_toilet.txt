@@ -1,0 +1,8 @@
+#Family forgets to switch off the lighting in the toilet
+#rows and columns: (1) Never, (2) several times per month, (3) several times per week, (4) multiple times per week, (5) daily
+0.8095	0.6552	0.5714	0.0000	0.5000
+0.9524	0.8966	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000
+

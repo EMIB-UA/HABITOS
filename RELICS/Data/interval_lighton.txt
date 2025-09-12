@@ -1,0 +1,9 @@
+#Interval in which the lighting is not switched off during absence. 
+#columns: minutes, family habits: 1 to 5, with 5 being the most effective
+#rows: minutes-chances
+1	0.0000	0.0000	0.0000	0.0000	0.2105
+5	0.0000	0.0000	0.0000	0.5000	0.7368
+10	0.0000	1.0000	1.0000	0.9000	0.7895
+20	0.0000	1.0000	1.0000	0.9500	0.8947
+30	0.0000	1.0000	1.0000	0.9500	0.9474
+60	1.0000	1.0000	1.0000	1.0000	1.0000

@@ -1,0 +1,15 @@
+# Intervals for the switch-on probability functions during occupation in function of the indoor illuminanace
+# rows: different room types 
+# (1) Bathroom, (2) Bedroom, (3) Hallway, (4) Kitchen, (5) Living, (6) Office, (7) Toilet, Storage and (8) LivingKitchen
+# columns: interval in which the switch-on probability function during presence should be located. 
+# (1) lower function and (2) upper function
+
+0.23070 * exp(-4.31020 * x -2.36404) + 0.00180	0.34281 * exp(-6.10191 * x -1.66736) + 0.14730
+0.04344 * exp(-4.28615 * x -2.38255) + 0.00562	1.42525 * exp(-0.49333 * x -2.98476) -0.01205
+0.05 * exp(-3 * x)	1.0201423239889804 * exp(-3.4647166929590005*x -1.2784738191347043)+ 0.003879174825234157
+0.55724 * exp(-7.43694 * x -2.10423) -0.00035	0.84675 * exp(-5.15800 * x -0.86276) + 0.05442
+0.28363 * exp(-4.32408 * x -2.40645) -0.00162	0.98614 * exp(-11.94130 * x -1.71870) + 0.00947
+0.24965 * exp(-4.34260 * x -2.44555) + 0.00164	0.39584 * exp(-2.87343 * x -1.64786) + 0.01453
+0	0.05*exp(-3*x)
+0.28363 * exp(-4.32408 * x -2.40645) -0.00162	0.84675 * exp(-5.15800 * x -0.86276) + 0.05442
+

@@ -1,0 +1,8 @@
+#Family forgets to switch off the lighting in the bathroom
+#rows and columns: (1) Never, (2) several times per month, (3) several times per week, (4) multiple times per week, (5) daily
+0.8333	0.4483	0.2857	0.0000	0.5000
+0.9762	0.8276	0.7143	0.0000	1.0000
+1.0000	1.0000	1.0000	0.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000
+
