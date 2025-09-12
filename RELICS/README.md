@@ -4,8 +4,7 @@
 
 RELICS simulates occupant interactions with residential lighting systems, with specific attention to behavioural variability.
 For more detailed information on the functioning of the model and its underlying assumptions, see [Van Thillo et al., 2025](doi aanvullen).
-It is implemented in **Python** and is specifically designed to operate **in conjunction with EnergyPlus**, allowing detailed building energy simulations that integrate occupant behavior with building system performance.  
-However, the code is modular and can be adapted to work with other simulation tools if desired.
+It is implemented in **Python** and is specifically designed to operate **in conjunction with EnergyPlus**, allowing detailed building energy simulations that integrate occupant behavior with building system performance. However, the code is modular and can be adapted to work with other simulation tools if desired.
 
 ---
 
