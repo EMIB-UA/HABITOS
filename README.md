@@ -12,6 +12,7 @@ The current repository includes the following submodels:
 
 * **RELICS** – *REsidential Lighting Interaction and Control Simulation*:  
   A model to simulate manual residential lighting switching behaviour.
+
   Reference: Van Thillo, L., Audenaert, A., & Verbeke, S. (2025). The (un)predictability of manual light-switching behaviour in residential buildings: towards interaction model RELICS. Journal of Building Performance Simulation, 1–28. https://doi.org/10.1080/19401493.2025.2564147
 
 **Note:** If you use one of the HABITOS models in your work, please cite the corresponding publications.
