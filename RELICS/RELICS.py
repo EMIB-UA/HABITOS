@@ -372,7 +372,7 @@ class LightingControl(EnergyPlusPlugin):
                     f"within the [0,1] validity range."
                 )
                         
-            result = {'a': a_opt, 'b': b_opt, 'c': c_opt}
+            return {'a': a_opt, 'b': b_opt, 'c': c_opt}
         else: 
             raise ValueError("Generated function is outside 5% tolerance bounds.")
 
@@ -654,7 +654,7 @@ class LightingControl(EnergyPlusPlugin):
                     )
 
     
-    def reflect_exponential_function(a, b, c, d): 
+    def reflect_exponential_function(a, b, c): 
         ''' Reflect the exponential function around x = 0.5.'''
         return {'a': a, 'b': -b, 'c': c * np.exp(b)}
  
@@ -1388,7 +1388,7 @@ class LightingControl(EnergyPlusPlugin):
                             if shading_interaction == 1: 
                                 k = correcting_lighting(zone_name, timestep, hour, day, self.sunrise, self.sunset, self.occupancy, self.lighting_requirements, self.asleep_bedroom, self.minimum_illuminance, previousstate_lighting['PreviousStateLighting{}'.format(zone_name)])
                                 illuminance_timestep = illuminance['Illuminance{}'.format(zone_name)]
-                                probability_timestep_shading = horizontal_dilation((self.probability_off_solar), self.minimum_illuminance[zone_name][timestep])(illuminance_timestep) + k*self.standard_deviation
+                                probability_timestep_shading = horizontal_dilation((self.probability_off_solar[zone_name]), self.minimum_illuminance[zone_name][timestep])(illuminance_timestep) + k*self.standard_deviation
                             # The first occupant has entered the room 
                             if self.lighting_requirements[zone_name][timestep-1] == 0:
                                 # Rooms without sufficient daylight entrance 
@@ -1471,7 +1471,7 @@ class LightingControl(EnergyPlusPlugin):
                             probability_timestep_shading = 0
                             if shading_interaction == 1: 
                                 illuminance_timestep = illuminance['Illuminance{}'.format(zone_name)]
-                                probability_timestep_shading = horizontal_dilation((self.probability_on_solar), self.minimum_illuminance[zone_name][timestep])(illuminance_timestep)      
+                                probability_timestep_shading = horizontal_dilation((self.probability_on_solar[zone_name]), self.minimum_illuminance[zone_name][timestep])(illuminance_timestep)      
                             # First occupant has entered the room
                             if self.lighting_requirements[zone_name][timestep-1] == 0: 
                                 # Rooms without sufficient daylight entrance
