@@ -1,0 +1,8 @@
+#Probabilities linked to closing shading in function of thermal discomfort - anticipate
+#columns: (1) 0% occlusion rate, (2) 25% occlusion rate, (3) 50% occlusion rate (4) 75% occlusion rate and (5) fully closed
+#rows: (1) 25% occlusion rate, (2) 50% occlusion rate, (3) 75% occlusion rate and (4) fully closed
+0.0233	0.0000	0.0000	0.0000	0.0000
+0.2093	0.1905	0.0000	0.0000	0.0000
+0.4186	0.4048	0.2647	0.0000	0.0000
+1.0000	1.0000	1.0000	1.0000	1.0000
+

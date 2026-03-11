@@ -1,0 +1,7 @@
+#Main driver other rooms (rooms with short occupancy pattern such as corridor and storage)
+#rows and columns: (1) Darkness, (2) thermal comfort, (3) privacy, (4) safety and (5) visual comfort
+0.5000	0.1875	0.3333	0.6667	0.2500
+0.7500	0.9375	0.6667	1.0000	0.7500
+1.0000	0.9375	1.0000	1.0000	0.7500
+1.0000	0.9375	1.0000	1.0000	0.7500
+1.0000	1.0000	1.0000	1.0000	1.0000

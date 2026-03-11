@@ -1,0 +1,14 @@
+# Intervals for the closing probability functions when the first occupant enters in function of the vertical irradiance (visual discomfort)
+# rows: different room types 
+# (1) Bathroom, (2) Bedroom, (3) Hallway, (4) Kitchen, (5) Living, (6) Office, (7) Toilet, Storage and (8) LivingKitchen
+# columns: interval in which the closing probability function upon entering should be located. 
+# (1) lower function and (2) upper function
+
+0	0.000783*x - 0.1034
+0	0.000783*x - 0.1034
+0	0.000783*x - 0.1034
+0	0.000783*x - 0.1034
+0	0.000783*x - 0.1034
+0	0.000783*x - 0.1034
+0	0.000783*x - 0.1034
+0	0.000783*x - 0.1034

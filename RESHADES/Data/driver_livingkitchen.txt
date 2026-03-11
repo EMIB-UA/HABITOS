@@ -1,0 +1,7 @@
+#Main driver living room/kitchen/offices
+#rows: (1) Darkness, (2) thermal comfort, (3) privacy, (4) safety and (5) visual comfort
+0.1587
+0.6190
+0.7937
+0.8413
+1.0000

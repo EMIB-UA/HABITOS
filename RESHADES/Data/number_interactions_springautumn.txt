@@ -1,0 +1,7 @@
+#Number of times families interact with their screens during spring and autumn
+#rows and columns: (1) Never, (2) several times a month, (3) several times a week, (4) daily or (5) multiple times a day
+0.9386	0.0000	0.0000	0.0000	0.0000
+0.9601	1.0000	0.0000	0.0000	0.0199
+0.9869	1.0000	1.0000	0.0000	0.0448
+0.9957	1.0000	1.0000	1.0000	0.0529
+1.0000	1.0000	1.0000	1.0000	1.0000

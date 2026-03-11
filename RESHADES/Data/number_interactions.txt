@@ -1,0 +1,7 @@
+#Number of times families interact with their screens 
+#row: (1) Never, (2) several times a month, (3) several times a week, (4) daily or (5) multiple times a day
+0.1864
+0.2627
+0.3559
+0.8390
+1.0000

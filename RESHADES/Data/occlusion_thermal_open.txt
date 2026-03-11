@@ -1,0 +1,7 @@
+#Probabilities linked to opening shading in function of thermal discomfort
+#columns: (1) 0% occlusion rate, (2) 25% occlusion rate, (3) 50% occlusion rate (4) 75% occlusion rate and (5) fully closed
+#rows: (1) 75% occlusion rate, (2) 50% occlusion rate, (3) 25% occlusion rate and (4) fully opened
+1.0000	1.0000	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000

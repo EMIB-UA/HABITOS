@@ -1,0 +1,15 @@
+# Intervals for the opening probability functions during occupation in function of the vertical irradiance (visual discomfort)
+# rows: different room types 
+# (1) Bathroom, (2) Bedroom, (3) Hallway, (4) Kitchen, (5) Living, (6) Office, (7) Toilet, Storage and (8) LivingKitchen
+# columns: interval in which the opening probability function during presence should be located. 
+# (1) lower function and (2) upper function
+
+0.014150	0.055270 
+0.014150	0.055270 
+0.014150	0.055270 
+0.014150	0.055270 
+0.014150	0.055270 
+0.014150	0.055270 
+0.014150	0.055270 
+0.014150	0.055270 
+  

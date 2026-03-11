@@ -1,0 +1,7 @@
+#Probabilities to set the occlusion rate per driver. 
+#columns: (1) Darkness, (2) privacy and (3) safety
+#rows: (1) 25% occlusion rate, (2) 50% occlusion rate, (3) 75% occlusion rate and (4) fully closed
+0.0000	0.9090	0.1081
+0.1154	0.2273	0.2162
+0.1923	0.2727	0.3243
+1.0000	1.0000	1.0000

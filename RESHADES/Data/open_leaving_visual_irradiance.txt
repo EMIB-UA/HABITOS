@@ -1,0 +1,14 @@
+# Intervals for the opening probability functions when the last occupant leaves in function of the vertical irradiance (visual discomfort)
+# rows: different room types 
+# (1) Bathroom, (2) Bedroom, (3) Hallway, (4) Kitchen, (5) Living, (6) Office, (7) Toilet, Storage and (8) LivingKitchen
+# columns: interval in which the opening probability function by leaving should be located. 
+# (1) lower function and (2) upper function
+
+0.04245	0.16581
+0.04245	0.16581
+0.04245	0.16581
+0.04245	0.16581
+0.04245	0.16581
+0.04245	0.16581
+0.04245	0.16581
+0.04245	0.16581

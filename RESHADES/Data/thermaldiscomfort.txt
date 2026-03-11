@@ -1,0 +1,4 @@
+#Probabilities to identify whether or not the family anticipate on future overheating risks. 
+#rows: (1) Interacting when experiencing thermal discomfort, (2) Interacting on beforehand. 
+0.4933
+1.0000

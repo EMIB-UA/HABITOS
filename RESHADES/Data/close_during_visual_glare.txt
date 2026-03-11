@@ -1,0 +1,14 @@
+# Intervals for the closing probability functions during occupation in function of daylighting glare index (visual discomfort)
+# rows: different room types 
+# (1) Bathroom, (2) Bedroom, (3) Hallway, (4) Kitchen, (5) Living, (6) Office, (7) Toilet, Storage and (8) LivingKitchen
+# columns: interval in which the closing probability function during presence should be located. 
+# (1) lower function and (2) upper function
+
+0	0.3373*exp(0.396*x−4.860)−0.005
+0	0.3373*exp(0.396*x−4.860)−0.005
+0	0.3373*exp(0.396*x−4.860)−0.005
+0	0.3373*exp(0.396*x−4.860)−0.005
+0	0.3373*exp(0.396*x−4.860)−0.005
+0	0.3373*exp(0.396*x−4.860)−0.005
+0	0.3373*exp(0.396*x−4.860)−0.005
+0	0.3373*exp(0.396*x−4.860)−0.005

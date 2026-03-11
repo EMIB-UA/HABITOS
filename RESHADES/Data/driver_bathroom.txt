@@ -1,0 +1,7 @@
+#Main driver bathroom
+#rows and columns: (1) Darkness, (2) thermal comfort, (3) privacy, (4) safety and (5) visual comfort
+0.3333	0.0714	0.3333	0.0000	0.0000
+0.3333	0.4286	0.3333	0.3333	0.6667
+1.0000	1.0000	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000
+1.0000	1.0000	1.0000	1.0000	1.0000

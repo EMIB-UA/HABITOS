@@ -1,0 +1,34 @@
+#Probabilities to identify the combination of drivers in living room/kitchen/offices
+#columns: (1) Darkness, (2) thermal comfort, (3) privacy, (4) safety and (5) visual comfort
+#rows: (1) Darkness, (2) darkness, thermal comfort, (3) darkness, privacy, (4) darkness, safety, (5) darkness, visual comfort, (6) darkness, thermal comfort, privacy, (7) darkness, thermal comfort, safety, (8) darkness, thermal comfort, visual comfort, (9) darkness, safety, privacy, (10) darkness, safety, visual comfort, (11) darkness, privacy, visual comfort, (12) darkness, thermal comfort, privacy, safety, (13) darkness, thermal comfort, privacy, visual comfort, (14) darkness, thermal comfort, safety, visual comfort, (15) darkness, privacy, safety, visual comfort, (16) darkness, thermal comfort, privacy, safety, visual comfort, (17) thermal comfort, (18) thermal comfort, privacy, (19) thermal comfort, safety, (20) thermal comfort, visual comfort, (21) thermal comfort, privacy, safety, (22) thermal comfort, privacy, visual comfort, (23) thermal comfort, safety, visual comfort, (24) thermal comfort, privacy, safety, visual comfort, (25) privacy, (26) privacy, safety, (27) privacy, visual comfort, (28) privacy, safety, visual comfort, (29) safety, (30) safety, visual comfort, (31) visual comfort
+0.1702	0.0000	0.0000	0.0000	0.0000
+0.1915	0.0333	0.0000	0.0000	0.0000
+0.3404	0.0333	0.1795	0.1795	0.0000
+0.3404	0.0333	0.1795	0.1795	0.0000
+0.4468	0.0333	0.1795	0.1795	0.0962
+0.4681	0.0667	0.2051	0.2051	0.0962
+0.4681	0.0667	0.2051	0.2051	0.0962
+0.5957	0.2667	0.2051	0.2051	0.2115
+0.5957	0.2667	0.2051	0.2051	0.2115
+0.5957	0.2667	0.2051	0.2051	0.2115
+0.8723	0.2667	0.5385	0.5385	0.4615
+0.8723	0.2667	0.5385	0.5385	0.4615
+0.9574	0.4000	0.6410	0.6410	0.5385
+0.9574	0.4000	0.6410	0.6410	0.5385
+0.9574	0.4000	0.6410	0.6410	0.5385
+1.0000	0.4667	0.6923	0.6923	0.5769
+1.0000	0.5333	0.6923	0.6923	0.5769
+1.0000	0.5333	0.6923	0.6923	0.5769
+1.0000	0.5667	0.6923	0.6923	0.5769
+1.0000	0.8333	0.6923	0.6923	0.7308
+1.0000	0.8333	0.6923	0.6923	0.7308
+1.0000	0.9667	0.7949	0.7949	0.8077
+1.0000	0.9667	0.7949	0.7949	0.8077
+1.0000	1.0000	0.8205	0.8205	0.8269
+1.0000	1.0000	0.9231	0.9487	0.8269
+1.0000	1.0000	0.9231	0.9487	0.8269
+1.0000	1.0000	0.9744	1.0000	0.8654
+1.0000	1.0000	0.9744	1.0000	0.8654
+1.0000	1.0000	0.9744	1.0000	0.8654
+1.0000	1.0000	0.9744	1.0000	0.8654
+1.0000	1.0000	0.9744	1.0000	1.0000
